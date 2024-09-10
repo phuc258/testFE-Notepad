@@ -1,0 +1,9 @@
+D:\Desktop\testFE\bin\Debug\FE_Notepad.exe.config
+D:\Desktop\testFE\bin\Debug\FE_Notepad.exe
+D:\Desktop\testFE\bin\Debug\FE_Notepad.pdb
+D:\Desktop\testFE\obj\Debug\FE_Notepad.csproj.AssemblyReference.cache
+D:\Desktop\testFE\obj\Debug\FE_Notepad.Properties.Resources.resources
+D:\Desktop\testFE\obj\Debug\FE_Notepad.csproj.GenerateResource.cache
+D:\Desktop\testFE\obj\Debug\FE_Notepad.csproj.CoreCompileInputs.cache
+D:\Desktop\testFE\obj\Debug\FE_Notepad.exe
+D:\Desktop\testFE\obj\Debug\FE_Notepad.pdb
